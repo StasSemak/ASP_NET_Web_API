@@ -1,0 +1,14 @@
+D:\asp\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\asp\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\asp\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\asp\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\asp\Data\bin\Debug\net6.0\Data.deps.json
+D:\asp\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\asp\Data\bin\Debug\net6.0\Data.dll
+D:\asp\Data\bin\Debug\net6.0\Data.pdb
+D:\asp\Data\obj\Debug\net6.0\Data.dll
+D:\asp\Data\obj\Debug\net6.0\refint\Data.dll
+D:\asp\Data\obj\Debug\net6.0\Data.pdb
+D:\asp\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\asp\Data\obj\Debug\net6.0\ref\Data.dll
